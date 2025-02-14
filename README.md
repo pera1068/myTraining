@@ -1,0 +1,1 @@
+Gitの操作やGithub Copilotでコード生成したファイルを管理する
